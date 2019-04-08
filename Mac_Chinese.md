@@ -6,8 +6,8 @@
 %!TEX encoding = UTF-8 Unicode
 
 ```
-\documentclass[12pt]{article} %这个我就不多说了，头文件
-\usepackage{url} %这个我也不多说了
+\documentclass[12pt]{article} 
+\usepackage{url} 
 \usepackage{fontspec,xltxtra,xunicode} %最新的mactex都有
 
 \defaultfontfeatures{Mapping=tex-text}
@@ -26,5 +26,7 @@
 \end{document}
 ```
 **在开始的时候一直会出现乱码，后来发现是 TexStudio 没有设置 UTF-8 的编码方式。但是实际上我在编辑器的设置中已经进行了设置，所以一脸懵逼**
+
+![FontBook](https://wx4.sinaimg.cn/mw690/6777c595gy1g1vby9lo12j20n60n0n8q.jpg)
 
 使用的字体需要在 FontBook 中找到
