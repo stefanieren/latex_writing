@@ -1,6 +1,6 @@
 参考了知乎的问答 https://www.zhihu.com/question/22906637 
 
-```
+[code]
 %!TEX program = xelatex
 %!TEX TS-program = xelatex
 %!TEX encoding = UTF-8 Unicode
@@ -24,4 +24,4 @@
 \Huge{{\H 宋体} {\E 魏碑} 黑体}
 \end{document}
 
-```
+[/code/
