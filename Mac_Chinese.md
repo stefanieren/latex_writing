@@ -5,6 +5,7 @@
 %!TEX TS-program = xelatex
 %!TEX encoding = UTF-8 Unicode
 
+```
 \documentclass[12pt]{article} %这个我就不多说了，头文件
 \usepackage{url} %这个我也不多说了
 \usepackage{fontspec,xltxtra,xunicode} %最新的mactex都有
@@ -23,5 +24,4 @@
 当你需要打不同字体的时候，就需要用到这个\url{\newfontfamily}，这样你可以在一行中显示多种字体。比如说：\\}
 \Huge{{\H 宋体} {\E 魏碑} 黑体}
 \end{document}
-
-[/code/
+```
